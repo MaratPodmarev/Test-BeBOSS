@@ -1,0 +1,199 @@
+body {
+  margin: 0;
+  background-image:
+  url(http://images.vfl.ru/ii/1568900140/f1d2c720/27916494.jpg);
+  width: 100%;
+  font-family: "Arial";
+}
+
+.logo {
+  margin: auto;
+  margin-top: 20px;
+  text-align: left;
+  width: 1003px;
+  height: 22px;
+}
+
+main {
+  width: 1003px;
+  margin: 20px auto auto auto;
+  background-color: white;
+}
+
+header {
+  background-image: url(http://images.vfl.ru/ii/1568966523/f98013b3/27924359.jpg);
+  width: 100%;
+  height: 639px;
+  display: inline-block;
+}
+
+h4 {
+  font-size: 28px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 64px;
+  padding: 0;
+  line-height: 0.8;
+}
+
+h5 {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  margin-top: 49px;
+  line-height: 0.8;
+}
+
+header a {
+  display: block;
+  margin: auto;
+  text-align: center;
+  margin-top: 210px;
+  font-size: 16px;
+  font-family: "Tahoma";
+}
+
+.main_body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.beboss {
+  font-size: 16px;
+  width: 100%;
+}
+
+.beboss a {
+  text-decoration: none;
+}
+
+.beboss ul {
+  padding-left: 15px;
+  border: 0;
+}
+
+.points {
+  width: 100%;
+  background-color: #f7f8fa;
+  height: 120px;
+  text-align: center;
+}
+
+.link_rules {
+  width: 49%;
+  display: inline-block;
+}
+
+.link_rules ul  {
+  padding-left: 15px;
+  line-height: 1.5;
+}
+
+.link_price {
+  display: inline-block;
+  width: 47%;
+  margin-left: 20px;
+  position: relative;
+}
+
+.points_numb_one, .points_numb_two {
+  color: #1ea01e;
+  font-size: 40px;
+  margin: 0;
+  font-weight: bold;
+  line-height: 1.3;
+}
+
+.points_one, .points_two {
+  display: block;
+}
+
+.get_links {
+  margin-top: 15px;
+  border-radius: 10px;
+  width: 100%;
+  height: 310px;
+  background-color: #fff4b3;
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+}
+
+.get_link_tabs {
+  width: 522px;
+  margin: auto;
+  margin-top: 25px;
+  padding: 0px;
+}
+
+.your_name, .phone_number, .franchize_name {
+  display: flex;
+  font-size: 14px;
+  margin: 10px auto 10px auto;
+}
+
+.your_name p, .phone_number p, .franchize_name p {
+  flex: 1;
+  text-align: left;
+}
+
+.your_name input, .phone_number input, .franchize_name input {
+  flex: 1.8;
+}
+
+.your_inputs {
+  border: 1px solid #a6acb2;
+  border-radius: 3px;
+  height: 38px;
+  width: 358px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.link_inputs p {
+  margin-left: 0;
+  border: 1px solid #a6acb2;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.link_names li, .link_inputs li {
+  list-style-type: none;
+}
+
+.push {
+  width: 160px;
+  height: 40px;
+  border-radius: 3px;
+  background-color: #0d972b;
+  color: white;
+}
+
+.about {
+  width: 800px;
+  margin: auto;
+}
+
+.about p {
+  margin-bottom: 0px;
+  padding-bottom: 50px
+}
+
+footer {
+  background-color: black;
+  height: 60px;
+  display: block;
+  margin-top: 0;
+}
+
+.footer_logo {
+  width: 1003px;
+  margin: auto;
+}
+
+.footer_logo img {
+  margin: 20px auto auto 20px;
+}
